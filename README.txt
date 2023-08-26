@@ -1,6 +1,4 @@
-This is an example docker compose approach that automatically creates database, schema, and insert data into mysql container 
-
-that will be utilized by php and phpmyadmin services, respectively.
+This is an example docker-compose approach that automatically creates a database and schema, and inserts data into mysql container that will be utilized by PHP and phpmyadmin services, respectively.
 
 Create a directory with the following structure:
 ├── docker-compose.yml
